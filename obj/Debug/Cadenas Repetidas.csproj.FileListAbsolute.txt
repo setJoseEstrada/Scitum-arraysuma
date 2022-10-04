@@ -1,0 +1,8 @@
+C:\Users\toro0\OneDrive\Escritorio\Scitum\Cadenas Repetidas\bin\Debug\Cadenas Repetidas.exe.config
+C:\Users\toro0\OneDrive\Escritorio\Scitum\Cadenas Repetidas\bin\Debug\Cadenas Repetidas.exe
+C:\Users\toro0\OneDrive\Escritorio\Scitum\Cadenas Repetidas\bin\Debug\Cadenas Repetidas.pdb
+C:\Users\toro0\OneDrive\Escritorio\Scitum\Cadenas Repetidas\obj\Debug\Cadenas Repetidas.csproj.AssemblyReference.cache
+C:\Users\toro0\OneDrive\Escritorio\Scitum\Cadenas Repetidas\obj\Debug\Cadenas Repetidas.csproj.SuggestedBindingRedirects.cache
+C:\Users\toro0\OneDrive\Escritorio\Scitum\Cadenas Repetidas\obj\Debug\Cadenas Repetidas.csproj.CoreCompileInputs.cache
+C:\Users\toro0\OneDrive\Escritorio\Scitum\Cadenas Repetidas\obj\Debug\Cadenas Repetidas.exe
+C:\Users\toro0\OneDrive\Escritorio\Scitum\Cadenas Repetidas\obj\Debug\Cadenas Repetidas.pdb
